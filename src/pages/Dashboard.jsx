@@ -1,5 +1,5 @@
-import StatsSection from "../components/StatsSection";
 import ChartSection from "../components/ChartSection";
+import StatsSection from "../components/StatsSection";
 import Table from "../components/Table";
 
 import {

@@ -7,7 +7,6 @@ import {
   Tooltip,
   Legend,
 } from "chart.js";
-import { h2 } from "framer-motion/client";
 
 import { Line } from "react-chartjs-2";
 
