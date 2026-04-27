@@ -1,7 +1,7 @@
 import { useState } from "react";
-import Table from "../components/Table";
-import FormModal from "../components/FormModal";
-import ProductForm from "../components/ProductForm";
+import Table from "../comp/Table";
+import FormModal from "../comp/FormModal";
+import ProductForm from "../comp/ProductForm";
 
 const Products = () => {
   const headers = ["Product Name", "Category & Stock", "Status"];

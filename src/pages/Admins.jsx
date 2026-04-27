@@ -1,7 +1,7 @@
 import { useEffect, useState } from "react";
-import FilterBar from "../components/FilterBar";
-import FormModal from "../components/FormModal";
-import AdminForm from "../components/AdminForm";
+import FilterBar from "../comp/FilterBar";
+import FormModal from "../comp/FormModal";
+import AdminForm from "../comp/AdminForm";
 
 const Admins = () => {
   const [open, setOpen] = useState(false);

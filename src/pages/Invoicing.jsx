@@ -1,7 +1,7 @@
 import { useState } from "react";
-import Table from "../components/Table";
-import FormModal from "../components/FormModal";
-import InvoiceForm from "../components/InvoiceForm";
+import Table from "../comp/Table";
+import FormModal from "../comp/FormModal";
+import InvoiceForm from "../comp/InvoiceForm";
 
 const Invoicing = () => {
   const [open, setOpen] = useState(false);

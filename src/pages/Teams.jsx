@@ -1,7 +1,7 @@
 import { useState } from "react";
-import Table from "../components/Table";
-import FormModal from "../components/FormModal";
-import TeamForm from "../components/TeamForm";
+import Table from "../comp/Table";
+import FormModal from "../comp/FormModal";
+import TeamForm from "../comp/TeamForm";
 
 const Teams = () => {
   const [open, setOpen] = useState(false);

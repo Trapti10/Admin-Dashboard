@@ -1,7 +1,7 @@
 import { useState } from "react";
-import Table from "../components/Table";
-import FormModal from "../components/FormModal";
-import PurchaseOrderForm from "../components/PurchaseOrderForm";
+import Table from "../comp/Table";
+import FormModal from "../comp/FormModal";
+import PurchaseOrderForm from "../comp/PurchaseOrderForm";
 
 const PurchaseOrders = () => {
   const [open, setOpen] = useState(false);

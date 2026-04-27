@@ -1,7 +1,7 @@
 import { useState } from "react";
-import Table from "../components/Table";
-import FormModal from "../components/FormModal";
-import InventoryForm from "../components/InventoryForm";
+import Table from "../comp/Table";
+import FormModal from "../comp/FormModal";
+import InventoryForm from "../comp/InventoryForm";
 
 const Inventory = () => {
   const [open, setOpen] = useState(false);
