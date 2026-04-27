@@ -1,6 +1,6 @@
 import React from 'react'
-import Navbar from './Components/Navbar'
-import Sidebar from './Components/Sidebar'
+import Navbar from './components/Navbar'
+import Sidebar from './components/Sidebar'
 import { Route, Routes } from 'react-router-dom'
 import MainLayout from './layout/MainLayout'
 import Dashboard from './pages/Dashboard'
