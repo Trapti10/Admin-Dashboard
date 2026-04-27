@@ -1,6 +1,6 @@
-import StatsSection from "../comp/StatsSection";
-import ChartSection from "../comp/ChartSection";
-import Table from "../comp/Table";
+import StatsSection from "../components/StatsSection";
+import ChartSection from "../components/ChartSection";
+import Table from "../components/Table";
 
 import {
   FaShoppingCart,
